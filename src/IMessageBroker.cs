@@ -1,8 +1,8 @@
-﻿#region ENBREA - Copyright (c) 2022 STÜBER SYSTEMS GmbH
+﻿#region ENBREA - Copyright (c) 2023 STÜBER SYSTEMS GmbH
 /*    
  *    ENBREA 
  *    
- *    Copyright (c) 2022 STÜBER SYSTEMS GmbH
+ *    Copyright (c) 2023 STÜBER SYSTEMS GmbH
  *
  *    Licensed under the MIT License, Version 2.0. 
  * 

@@ -5,7 +5,7 @@
 
 A .NET library providing a simple and thread-safe in-memory message broker:
 
-+ Supports .NET 6 and .NET 7.
++ Supports .NET 6 .NET 7 and .NET 8.
 + Based on the publish-subscribe pattern.
 + Supports routing of messages via routing keys.
 
